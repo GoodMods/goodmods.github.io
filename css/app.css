@@ -1,0 +1,53 @@
+.logo {
+    margin-top: 10px;
+    height: 50px;
+}
+
+.section-header {
+    padding-bottom: 450px;
+    background-image: url(/assets/shape1.svg);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.app-name {
+    font-size: 2.6em; 
+    font-weight: bold;
+    color: #fff;
+    margin-left: 10px;
+}
+
+nav {
+    display: flex;
+    padding-top: 30px;
+}
+
+.subtitle {
+    color: #fff;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+.caption {
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.download-button {
+    margin-left: 80px;
+    border-radius: 40px;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 57px;
+    padding-right: 57px;
+}
+
+.border {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
